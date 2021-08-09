@@ -1,0 +1,24 @@
+Command Line For Terminal
+
+1. cd -> Change Directory
+   cd Documents
+
+2. mkdir -> Make Directory
+   mkdir myFolder
+
+3. pwd -> print working Directory
+   pwd
+
+4. touch file_name -> Creates a empty file
+   touch new_file.txt
+
+5. ls -> list of files in the directory
+   ls
+
+6. cat -> Output the content of the file
+   cat filename.txt
+
+7. cp -> copy content from one file to another 
+   cp note.txt new-note.txt
+   
+Similar more commands are found [here](https://www.git-tower.com/blog/command-line-cheat-sheet/)
